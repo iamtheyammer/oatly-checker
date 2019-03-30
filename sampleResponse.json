@@ -1,0 +1,212 @@
+{
+	"metaData": {
+		"totalResults": 1,
+		"resultsLabel": "1 Result",
+		"keyword": "oatly",
+		"labels": {
+			"shoppingIn": "Shopping in 94404",
+			"store": "All Stores",
+			"department": "All Departments",
+			"detailLabel": "Showing results for oatly"
+		},
+		"qid": "1553965943"
+	},
+	"filters": {
+		"clearAllLabel": "Clear all",
+		"clearAllUrl": "/s?k=oatly&qid=1553965943&ref_=pn_sr_nr_cl",
+		"closeFiltersLabel": "Close filters",
+		"appliedCount": 0,
+		"filters": [{
+			"name": "Department",
+			"options": [{
+				"text": "Grocery & Gourmet Food",
+				"linkUrl": "/s?keywords=oatly&qid=1553965943&rh=i%3Agrocery&maxResults=10&ref=sr_nr_i_0&ie=UTF8",
+				"selected": false,
+				"count": 0,
+				"id": "grocery"
+			}],
+			"ancestries": [{
+				"text": "Any Department",
+				"linkUrl": "/s?keywords=oatly&qid=1553965943&rh=i%3Aaps&maxResults=10&ref=sr_ex_i_0&ie=UTF8",
+				"selected": true,
+				"count": 0,
+				"id": "aps"
+			}],
+			"filterType": "DEPARTMENT",
+			"selectedType": "SingleSelect"
+		}, {
+			"name": "Brand",
+			"options": [{
+				"text": "Oatly",
+				"linkUrl": "/s?keywords=oatly&qid=1553965943&rh=p_4%3AOatly&maxResults=10&ref=sr_nr_p_4_0&ie=UTF8",
+				"selected": false,
+				"count": 0,
+				"id": "Oatly"
+			}],
+			"filterType": "BRAND",
+			"selectedType": "MultiSelectOR"
+		}, {
+			"name": "Store",
+			"options": [{
+				"text": "Amazon",
+				"imgSrc": {
+					"lowRes": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/QW1hem9u/Logos/Color/logo_m_1x._CB307903788_.png",
+					"highRes": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/QW1hem9u/Logos/Color/logo_m_2x._CB307903827_.png"
+				},
+				"linkUrl": "/s?keywords=oatly&qid=1553965943&rh=p_95%3AA017&maxResults=10&ref=sr_nr_p_95_0&ie=UTF8",
+				"themeColor": "#ff7817",
+				"selected": false,
+				"count": 0,
+				"id": "A017"
+			}, {
+				"text": "Whole Foods Market",
+				"imgSrc": {
+					"lowRes": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_1x._CB487174752_.png",
+					"highRes": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_2x._CB487174755_.png"
+				},
+				"linkUrl": "/s?keywords=oatly&qid=1553965943&rh=p_95%3AA09S&maxResults=10&ref=sr_nr_p_95_1&ie=UTF8",
+				"themeColor": "#006f46",
+				"selected": false,
+				"count": 0,
+				"id": "A09S"
+			}],
+			"filterType": "STORE",
+			"selectedType": "MultiSelectAND"
+		}]
+	},
+	"products": {
+		"asinCards": [{
+			"offers": [{
+				"price": {
+					"fullPrice": "$4.99"
+				},
+				"quantityInCart": {
+					"unit": "NUMBER",
+					"value": 0
+				},
+				"merchant": {
+					"merchantId": "A32XPZGSYAR2CW",
+					"merchantName": "Whole Foods Market",
+					"merchantImage": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_2x._CB487174755_.png",
+					"imgSrc": {
+						"lowRes": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_1x._CB487174752_.png",
+						"highRes": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_2x._CB487174755_.png",
+						"optimal": {
+							"full": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_2x._CB487174755_.png"
+						},
+						"altText": "Whole Foods Market",
+						"1x": {
+							"full": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_1x._CB487174752_.png"
+						},
+						"2x": {
+							"full": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_2x._CB487174755_.png"
+						},
+						"3x": {
+							"full": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_2x._CB487174755_.png"
+						},
+						"4x": {
+							"full": "https://images-na.ssl-images-amazon.com/images/G/01/Now/Brands/V2hvbGUgRm9vZHMgTWFya2V0/Logos/Color/logo_m_2x._CB487174755_.png"
+						}
+					}
+				},
+				"offerListingId": "kOyZFMQ%2B%2F7YyEIDUKIOidASDAgSMjxo3I5PpOT8gyy3Ha7Fhw6%2BwsLtmNgjFBcRzq00y1qRcNk7zX0tRJT1wXUqVrtP%2BeUa1h%2FTdaAUwKawIzXOZaDQU0nx2XIt5VGPXRSgdTgProBml49zppjv38JmiOgR8NUpu",
+				"maxQuantity": 10,
+				"productUrl": "/gp/aw/d/B07D6TCPTZ?qid=1553965943&m=A32XPZGSYAR2CW&sr=1-1&ref_=pn_sr_as_1_img_A32XPZGSYAR2CW",
+				"priceUrl": "/gp/aw/d/B07D6TCPTZ?qid=1553965943&m=A32XPZGSYAR2CW&sr=1-1&ref_=pn_sr_as_1_prc_1_A32XPZGSYAR2CW",
+				"refTags": {
+					"addToCart": "pn_sr_as_1_atc_1_A32XPZGSYAR2CW",
+					"updateCart": "pn_sr_as_1_qu_A32XPZGSYAR2CW"
+				}
+			}],
+			"asin": "B07D6TCPTZ",
+			"title": "Oatly, Oatmilk Original, 64 Fl Oz",
+			"asinIndex": 0,
+			"regulatoryTexts": {},
+			"productImgSrc": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR250,250_AC_.jpg",
+			"imgSrc": {
+				"lowRes": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR250,250_AC_.jpg",
+				"highRes": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg",
+				"optimal": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				},
+				"altText": "Oatly, Oatmilk Original, 64 Fl Oz",
+				"1x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR250,250_AC_.jpg"
+				},
+				"2x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				},
+				"3x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				},
+				"4x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				}
+			},
+			"hasOptions": false,
+			"productUrl": "/gp/aw/d/B07D6TCPTZ?qid=1553965943&m=xxxxxxxxxxxxxx&sr=1-1&ref_=pn_sr_as_1_img",
+			"labels": {
+				"addToCart": "Add",
+				"quantity": "Quantity",
+				"justAddedMessage": "Added to Cart",
+				"networkError": "We are have trouble processing your request. Please try again.",
+				"error": "Error",
+				"ok": "Okay"
+			},
+			"qid": "1553965943",
+			"sr": "1-1",
+			"images": [{
+				"lowRes": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR250,250_AC_.jpg",
+				"highRes": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg",
+				"optimal": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				},
+				"altText": "Oatly, Oatmilk Original, 64 Fl Oz",
+				"1x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR250,250_AC_.jpg"
+				},
+				"2x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				},
+				"3x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				},
+				"4x": {
+					"full": "https://m.media-amazon.com/images/I/41FRItyxEvL._SR500,500_AC_.jpg"
+				}
+			}],
+			"description": [],
+			"shortDescription": "Oatly",
+			"asinCardType": "AsinCard"
+		}]
+	},
+	"pageContext": {
+		"route": "/search",
+		"sessionId": "xxx-xxxxxxx-xxxxxxx",
+		"page": "search"
+	},
+	"slots": {},
+	"search": {
+		"form": {
+			"action": "/search",
+			"autoCompleteUrl": "/completion?m=xxxxxxxxxxxxxx",
+			"p_95": "",
+			"merchantId": "",
+			"ref_": "pn_sr_as_sr_ALL"
+		},
+		"placeholderText": "What are you looking for today?",
+		"searchTerm": "oatly",
+		"suggestionsLabel": "Suggestions",
+		"recentSearchesLabel": "Recent Searches",
+		"searchButtonLabel": "Search",
+		"voiceEnabled": true,
+		"voiceLabel": "Voice Search"
+	},
+	"weblabs": {
+		"PNFE_PRIME_MEMBERSHIP_UPSELL_LAUNCH_128466": "C",
+		"PNUI_RECENT_ORDERS_HTML_CHANGE_197842": "C",
+		"PNFE_MOBILE_GW_SEARCH_DROPDOWN_154015": "C",
+		"PRIME_NOW_116177": "T1"
+	},
+	"fulfillmentSelection": []
+}
