@@ -1,3 +1,4 @@
+
 # oatly-checker
 
 This is designed to check Amazon Prime Now for Oatly brand Oat Milk. Mmmm.
@@ -25,8 +26,9 @@ Anyway, if you want to deploy it:
   - Save to IFTTT
   - Back to Lambda
 - Environment Variables:
+
 | Name | Value |
-| :------------- | :------------- |
+| :--- | :---- |
 | `COOKIE` | Grab your cookie string from a signed in prime now account. Can be done over Charles proxy or via chrome dev tools. (should be in `key=value;` format) |
 | `ISOATLY` | `[]` |
 | `TEST` | `FALSE` |
