@@ -27,7 +27,12 @@ exports.handler = (event, context, callback) => {
           }
         }).then(() => console.log('Success pulling IFTTT webhook')));
       }
-      return callback('No oatly available.', null);
+      console.log({
+      statusCode: 404,
+      data: 'No oatly available.'});
+      return callback(null, {
+      statusCode: 404,
+      data: 'No oatly available.'});
     }
     let oatlies = [];
     response.data.products.asinCards.forEach((product, index) => {
@@ -36,7 +41,7 @@ exports.handler = (event, context, callback) => {
         imgUrl: product.productImgSrc,
         title: product.title,
         url: 'https://primenow.amazon.com' + product.productUrl,
-        price: product.price.fullPrice
+        price: product.offers[0].price.fullPrice
       });
     });
     let oatlyTitles = oatlies.map((oatly) => oatly.title).join(', ');
@@ -54,11 +59,11 @@ exports.handler = (event, context, callback) => {
       method: 'post',
       url,
       data: {
-        value1: oatlyTitles,
+        value1: oatlyTitles + (oatlies.length > 1 ? ' are now available.' : ' is now available.'),
         value2: oatlies[0].imgUrl,
-        value3: request.config.url
+        value3: response.config.url
       }
-    })).then(() => console.log('Success pulling a webhook.'));
+    }).then(() => console.log('Success pulling a webhook.')));
     process.env.ISOATLY = JSON.stringify(oatlies);
     console.log(JSON.stringify({
       statusCode: 200,
